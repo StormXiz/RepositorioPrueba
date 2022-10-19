@@ -1,2 +1,2 @@
 ##PRIMEROS PASOS EN GIT
-Primeras acciones en git
+Primeras acciones en gitt
